@@ -1,0 +1,79 @@
+body{
+    background-color: #212121;
+    color: #fff;
+}
+nav{
+    background-color: blue;
+    text-align: center;
+    height: 85px;
+}
+nav h1{
+    padding-top: 10px;
+}
+
+nav ul{
+    list-style: none;
+    
+  
+}
+nav ul li{
+    display: inline;
+    margin-right: 35px;
+    
+}
+nav ul li a{
+    color: white;
+}
+img{
+    width: 90%;
+    height: 25%;
+    padding-top: 20px;
+    padding-left: 63px;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    
+}
+.email-box {
+    width: 300px;
+    padding: 20px;
+    margin: 50px auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.email-box form {
+    display: flex;
+    flex-direction: column;
+}
+
+.email-box label {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.email-box input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: calc(100% - 22px);
+}
+
+.email-box button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007BFF;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.email-box button:hover {
+    background-color: #0056b3;
+}
