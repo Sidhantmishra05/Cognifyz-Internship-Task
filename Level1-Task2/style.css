@@ -1,0 +1,36 @@
+body{
+    background-image: url(https://img.freepik.com/free-vector/lovely-hand-drawn-web-design-concept_23-2147950087.jpg?w=740&t=st=1719827679~exp=1719828279~hmac=8470c0f2fbdc3e2a48039c96cfec0f194e61d522a06f748a7ec65dfa1b05d075);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.heading{
+    text-align: center;
+    padding: 10px;
+}
+.change-color{
+    text-align: center;
+}
+.button{
+    border: none;
+    padding: 10px 50px;
+    border-radius: 5px;
+    color: black;
+    /* background-image: linear-gradient(to left, rgba(247, 223, 10, 0.959), rgb(0, 17, 255)); */
+    background-color: red;
+    cursor: pointer;
+}
+.greeting{
+    text-align: center;
+    
+}
+.demo{
+    border: none;
+    border-radius: 5px;
+    padding: 10px 50px;
+    background-color: rebeccapurple;
+    color: white;
+    cursor: pointer;
+}
+.adding{
+    text-align: center;
+}
